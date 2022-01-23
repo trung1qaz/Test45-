@@ -1,0 +1,23 @@
+body {
+    background:lightgray;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color:red;
+}
+span{
+    border: solid;
+    background-color:yellow;
+    box-shadow: 10px 10px;
+    color:black;
+    padding:5px;
+    margin-bottom: 10px;
+    
+}
+img{
+    height:200px;
+    border-radius: 500px;
+    position: relative;
+    top: 0;
+    left:500px;
+}
